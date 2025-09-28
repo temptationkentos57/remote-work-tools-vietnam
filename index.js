@@ -1,1 +1,1 @@
-console.log('Welcome to Remote Work Tools Vietnam - 2023!');
+console.log('Welcome to Remote Work Tools - Vietnam 2023!');
