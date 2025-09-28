@@ -1,1 +1,1 @@
-console.log('Chào mừng bạn đến với Remote Work Tools Việt Nam!');
+console.log('Welcome to Remote Work Tools Vietnam!');
