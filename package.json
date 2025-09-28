@@ -1,0 +1,12 @@
+{
+  "name": "remote-work-tools-vietnam",
+  "version": "1.0.0",
+  "description": "Công cụ hỗ trợ làm việc từ xa cho người dùng tại Việt Nam.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tên của bạn",
+  "license": "MIT"
+}
