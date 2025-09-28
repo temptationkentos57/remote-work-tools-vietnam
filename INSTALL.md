@@ -4,7 +4,7 @@
 
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/<your-username>/remote-work-tools-vietnam.git
+   git clone https://github.com/your-username/remote-work-tools-vietnam.git
    ```
 
 2. **Chuyển đến thư mục dự án**:
